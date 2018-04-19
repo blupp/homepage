@@ -1,0 +1,22 @@
+
+body {
+	margin: 0;
+	background: white;
+}
+
+#label {
+	text-align: center;
+	margin-top: 20%;
+	font-family: Helvetica;
+	font-size: 16px;
+	color: darkslategrey;
+	line-height: 60px;
+}
+
+a {
+	color: darkslategrey;
+}
+
+#label span {
+	font-size: 46px;
+}
